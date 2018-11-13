@@ -2,11 +2,11 @@
 
 ## Lecture Datasets
 
-| Dataset | Shortcut URL |
+| Dataset | Shortcut URL | Long URL |
 |----|----|
-| [VGChartz Sales By Genre](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/vgsales-summary-by-genre.csv) | https://bit.ly/2RUxsaJ |
-| [WoW Avatars Daily Summary](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-daily-summary.csv) | https://bit.ly/2QH3uH0 |
-| [WoW Avatars Monthly Activity](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-monthly-activity.csv) |  https://bit.ly/2QH3uH0 |
+| [VGChartz Sales By Genre](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/vgsales-summary-by-genre.csv) | https://bit.ly/2RUxsaJ | https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/vgsales-summary-by-genre.csv |
+| [WoW Avatars Daily Summary](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-daily-summary.csv) | https://bit.ly/2QH3uH0 | https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-daily-summary.csv |
+| [WoW Avatars Monthly Activity](https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-monthly-activity.csv) |  https://bit.ly/2QH3uH0 | https://raw.githubusercontent.com/josharnold52/game4200-datasets/master/wow-monthly-activity.csv |
 
 ## Sources
 
